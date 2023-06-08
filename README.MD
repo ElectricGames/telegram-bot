@@ -16,3 +16,4 @@ sequenceDiagram
 ```
 
 https://github.com/GoogleContainerTools/jib
+https://habr.com/ru/companies/jugru/articles/505994/
